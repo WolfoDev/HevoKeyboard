@@ -4,7 +4,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     /// <summary>
     /// This component represents and ordered collection of UI elements. You

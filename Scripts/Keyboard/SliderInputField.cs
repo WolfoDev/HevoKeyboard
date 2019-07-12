@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     /// <summary>
     /// This is an input field that overrides getting deselected

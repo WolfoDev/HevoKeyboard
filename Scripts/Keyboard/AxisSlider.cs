@@ -3,7 +3,7 @@
 
 using UnityEngine;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     /// <summary>
     /// Axis slider is a script to lock a bar across a specific axis.

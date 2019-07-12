@@ -3,7 +3,7 @@
 
 using UnityEngine;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     public class SymbolKeyboard : MonoBehaviour
     {

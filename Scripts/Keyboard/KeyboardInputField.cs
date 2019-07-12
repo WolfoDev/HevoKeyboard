@@ -7,7 +7,7 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     /// <summary>
     /// Class that when placed on an input field will enable keyboard on click

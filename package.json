@@ -1,0 +1,8 @@
+{
+  "name": "com.hevolus.keyboard",
+  "version": "1.0.0",
+  "displayName": "HevoKeyboard",
+  "description": "Keyboard that can be used when the system keyboard isn't working right (WMR/HL)",
+  "unity": "2018.3",
+  "unityRelease": "1f1"
+}

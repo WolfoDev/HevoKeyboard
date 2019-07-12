@@ -4,7 +4,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace HoloKeyboard
+namespace HevoKeyboard
 {
     public class CapsLockHighlight : MonoBehaviour
     {

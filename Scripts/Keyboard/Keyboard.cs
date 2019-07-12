@@ -5,7 +5,8 @@ using Microsoft.MixedReality.Toolkit.Utilities;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
-namespace HoloKeyboard
+
+namespace HevoKeyboard
 {
     /// <summary>
     /// A simple general use keyboard that is ideal for AR/VR applications.
